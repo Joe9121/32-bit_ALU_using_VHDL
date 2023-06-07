@@ -63,4 +63,4 @@ To get started with the 32-bit ALU project, please refer to the documentation in
 
 We welcome contributions to our 32-bit ALU project! If you have any ideas, bug fixes, or enhancements, please feel free to open an issue or submit a pull request. We appreciate your interest in improving our project.
 
-We hope you find our 32-bit ALU implementation useful and reliable for your digital logic projects!
+We hope you find our 32-bit ALU implementation useful and reliable for your digital systems projects!
